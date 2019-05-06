@@ -115,11 +115,11 @@ public class MainActivity extends AppCompatActivity {
                 showRecyclerList();
                 break;
             case R.id.action_grid:
-                title = "Mode List";
+                title = "Mode Grid";
                 showRecyclerGrid();
                 break;
             case R.id.action_cardview:
-                title = "Mode List";
+                title = "Mode CardView";
                 showRecyclerCardView();
                 break;
         }
